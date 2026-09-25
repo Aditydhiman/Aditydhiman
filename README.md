@@ -40,23 +40,6 @@ Alongside cloud computing, my **UI/UX Design minor** helps me approach technolog
 
 I also explore **Artificial Intelligence and Computer Vision** through hands-on projects. Building these projects helps me strengthen my programming, problem-solving, and software development skills.
 
-### 🎯 My Current Direction
-
-
-flowchart TD
-
-    A["☁️ Cloud Computing"] --> B["💻 Software Development"]
-    
-    A --> C["AWS • Docker • Linux"]
-    B --> D["Web Development • Git & GitHub"]
-
-    C --> E["🚀 Real-World Projects"]
-    D --> E
-
-    F["🎨 UI/UX Design"] --> E
-    G["🤖 AI & Computer Vision"] --> E
-
-    E --> H["💡 Building Practical & User-Focused Solutions"]
 
 # ⚡ Quick Snapshot
 
