@@ -1,5 +1,7 @@
 <div align="center">
-<img src="./assets/banner.svg" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:0F2740,100:0D1117&height=200&section=header&text=Aditya%20Dhiman&fontSize=48&fontColor=00F5FF&animation=fadeIn&fontAlignY=42&desc=AI%20Developer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Assistive%20Tech&descAlignY=62&descSize=16&descColor=8B5CF6" width="100%"/>
+
 </div>
 
 ```
@@ -7,7 +9,7 @@ $ neofetch --user aditya
 
    ▄▄▄▄▄▄▄▄▄▄▄               aditya@LPU
   █             █            ------------------
-  █   ◉     ◉   █            OS: Human.exe (B.Tech CSE)
+  █   ◉     ◉   █            OS: Human.exe  (B.Tech CSE)
   █      ▽      █            Host: Lovely Professional University
   █   ▔▔▔▔▔▔▔   █            Kernel: Computer Vision Engine
    ▀▀▀▀▀▀▀▀▀▀▀               Uptime: 2+ years of daily building
@@ -22,22 +24,24 @@ $ neofetch --user aditya
 
 <div align="center">
 
-<a href="mailto:adityadhiman779@gmail.com">Email</a> ·
-<a href="https://linkedin.com/in/aditya-dhiman1">LinkedIn</a> ·
-<a href="https://github.com/Aditydhiman/Aditydhiman/blob/main/YOUR_PORTFOLIO_LINK">Portfolio</a> ·
-<a href="https://github.com/Aditydhiman?tab=repositories">Repos</a>
+**adityadhiman779@gmail.com** · [LinkedIn](https://linkedin.com/in/aditya-dhiman1) · [GitHub](https://github.com/Aditydhiman) · [Portfolio](https://github.com/Aditydhiman/Aditydhiman/blob/main/YOUR_PORTFOLIO_LINK)
+
+<img src="https://img.shields.io/github/followers/Aditydhiman?style=flat-square&color=00F5FF&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=Aditydhiman&style=flat-square&color=8B5CF6&labelColor=0D1117&label=VIEWS" />
 
 </div>
 
-<br/>
+---
 
-## about
+### about
 
 I build real-time computer-vision systems, mostly for assistive use — object detection, OCR, face and emotion recognition, currency detection, spoken feedback. At Smart India Hackathon 2025 I shipped a live facial-recognition attendance system under a clock. I also trained in UI/UX design (Grade A), so I think about how AI *feels* to use, not only how well it scores.
 
-<br/>
+Currently exploring: `MLOps` `Docker` `Advanced Deep Learning`
 
-## journey
+---
+
+### journey
 
 ```
 * 9f1c3a2 (HEAD -> main) exploring MLOps, Docker, deeper deep-learning
@@ -48,9 +52,9 @@ I build real-time computer-vision systems, mostly for assistive use — object d
 * 0000001 (root-commit) enrolled in B.Tech CSE @ Lovely Professional University
 ```
 
-<br/>
+---
 
-## stack
+### stack
 
 ```
 Python       ████████████████████  daily driver
@@ -60,8 +64,7 @@ JavaScript   ████████████░░░░░░░░  front
 TensorFlow   ███████████░░░░░░░░░  model training
 Docker       ███████░░░░░░░░░░░░░  currently learning
 ```
-
-<sub>self-rated — tune these to how you'd actually rank yourself</sub>
+<sub>self-rated — adjust to how you'd actually rank yourself</sub>
 
 <div align="center">
 
@@ -69,9 +72,9 @@ Docker       ███████░░░░░░░░░░░░░  curre
 
 </div>
 
-<br/>
+---
 
-## projects
+### projects
 
 ```diff
 + Assistive Vision System        active     Python · OpenCV · YOLO · TensorFlow
@@ -96,9 +99,9 @@ A web interface for exploring system calls, built with security and usability in
 **[Restaurant Website →](https://github.com/Aditydhiman/Restaurant-site)**
 Menu, about/contact pages, an order-form flow — an early front-end project.
 
-<br/>
+---
 
-## stats
+### stats
 
 <div align="center">
 
@@ -107,29 +110,11 @@ Menu, about/contact pages, an order-form flow — an early front-end project.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditydhiman&hide_border=true&bg_color=0D1117&color=00F5FF&line=8B5CF6&point=E6EDF3" width="97%" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=Aditydhiman&theme=algolia&no-frame=true&row=1&column=6" width="97%"/>
+
 </div>
 
-<details>
-<summary>full metrics dashboard, recent activity, trophies</summary>
-<br/>
-
-<img src="./metrics.svg" width="100%" alt="auto-generated metrics"/>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aditydhiman&theme=algolia&no-frame=true&row=1&column=6" width="100%"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditydhiman/Aditydhiman/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Aditydhiman/Aditydhiman/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
-<sub>metrics, activity, and the snake refresh automatically via GitHub Actions</sub>
-
-</details>
-
-<br/>
+---
 
 <details>
 <summary>education & certifications</summary>
@@ -152,11 +137,5 @@ Menu, about/contact pages, an order-form flow — an early front-end project.
 <br/>
 
 <div align="center">
-
-## contact
-
-**adityadhiman779@gmail.com** · [LinkedIn](https://linkedin.com/in/aditya-dhiman1) · [Portfolio](https://github.com/Aditydhiman/Aditydhiman/blob/main/YOUR_PORTFOLIO_LINK)
-
-<sub>if this was useful, a star on my repos goes a long way</sub>
-
+<sub>⭐ if any of this is useful, a star on my repos goes a long way</sub>
 </div>
