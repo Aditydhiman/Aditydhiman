@@ -1,213 +1,175 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Aditya%20Dhiman&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Computer%20Vision%20Developer&descAlignY=58&descSize=20&descColor=E6FFFA">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Aditya%20Dhiman&fontSize=55&fontColor=001B2E&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Computer%20Vision%20Developer&descAlignY=58&descSize=20&descColor=001B2E" width="100%">
-</picture>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+real-time+AI+vision+systems;Turning+computer+vision+into+assistive+tech;B.Tech+CSE+%40+Lovely+Professional+University;Smart+India+Hackathon+2025+Builder)](https://git.io/typing-svg)
+<img src="./assets/banner.svg" width="100%"/>
 
 <p>
-<img src="https://img.shields.io/github/followers/Aditydhiman?style=for-the-badge&color=00F5FF&labelColor=0F2027" />
-<img src="https://img.shields.io/github/stars/Aditydhiman?style=for-the-badge&color=00F5FF&labelColor=0F2027" />
-<img src="https://komarev.com/ghpvc/?username=Aditydhiman&style=for-the-badge&color=00F5FF&labelColor=0F2027&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/STATUS-Open_to_Internships-00F5FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LOCATION-Phagwara,_India-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FOCUS-Computer_Vision-00F5FF?style=for-the-badge&labelColor=0D1117"/>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+real-time+AI+vision+systems;Turning+computer+vision+into+assistive+tech;Smart+India+Hackathon+2025+Builder)](https://git.io/typing-svg)
+
+<p>
+<img src="https://img.shields.io/github/followers/Aditydhiman?style=flat-square&color=00F5FF&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=Aditydhiman&style=flat-square&color=8B5CF6&labelColor=0D1117&label=VIEWS" />
 </p>
 
 <p>
-<a href="https://linkedin.com/in/aditya-dhiman1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:adityadhiman779@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Aditydhiman/Aditydhiman/blob/main/YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/Aditydhiman?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/aditya-dhiman1"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/></a>
+<a href="mailto:adityadhiman779@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/></a>
+<a href="https://github.com/Aditydhiman/Aditydhiman/blob/main/YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F5FF"/></a>
 </p>
 
-**[About](#-about-me) · [Stack](#-tech-stack) · [Projects](#-featured-projects) · [Stats](#-github-stats) · [Metrics](#-full-metrics-dashboard) · [Activity](#-recent-activity) · [Trophies](#-github-trophies) · [Contact](#-lets-build-something)**
+**[About](#about) · [Stack](#stack) · [Projects](#projects) · [Stats](#stats) · [Metrics](#metrics) · [Activity](#activity) · [Trophies](#trophies) · [Contact](#contact)**
 
 </div>
 
----
+<br/>
 
-## 🖥️ whoami
+<a name="about"></a>
 
-```bash
-$ whoami
-> Aditya Dhiman — AI Developer, Computer Vision
+## 💎 About
 
-$ status --current
-> B.Tech CSE @ Lovely Professional University | Phagwara, India
-> Building assistive AI systems that help people see, hear, and navigate
+I design real-time computer-vision systems, mainly for assistive use cases — object detection, OCR, face and emotion recognition, currency detection, and voice feedback. At Smart India Hackathon 2025, I built a live facial-recognition attendance system under time pressure. I'm also trained in UI/UX design and prototyping (Grade A), so I care how AI *feels* to use, not only how it performs.
 
-$ ps --building
-> ["Assistive Vision System", "SmartCart"]
-
-$ echo $MISSION
-> "Turn real-time computer vision into tools people can actually rely on"
-```
-
----
-
-## 💎 About Me
-
-- 🎓 B.Tech Computer Science Engineering student, Lovely Professional University
-- 👁️ I design real-time AI vision pipelines — object detection, OCR, face & emotion recognition, currency detection, voice feedback
-- 🏆 **Smart India Hackathon 2025** — built a live facial-recognition attendance system under time pressure
-- 🎨 Also trained in UI/UX design and prototyping (Grade A) — I care how AI *feels* to use, not just how it works
-- 🌱 Currently deepening: MLOps, Docker, and advanced deep learning
-- 🧩 Soft skills: adaptability, problem-solving, fast learning, teamwork
-- 📍 Phagwara, Punjab, India
-- ⚡ Fun fact: I build software that helps people who can't see, see
+Currently deepening: `MLOps` `Docker` `Advanced Deep Learning`
 
 <div align="center">
 
-| 💻 Languages | 🤖 Focus | 🚀 Building Now | 🏆 Highlight | 🎯 Goal |
-|:---:|:---:|:---:|:---:|:---:|
-| C, C++, Java, Python, JS | Computer Vision • Assistive AI | Assistive Vision System, SmartCart | SIH 2025 | CV / AI Engineer |
+| 💻 Languages | 🤖 Focus | 🚀 Building Now | 🏆 Highlight |
+|:---:|:---:|:---:|:---:|
+| C · C++ · Java · Python · JS | Computer Vision · Assistive AI | Assistive Vision System · SmartCart | SIH 2025 |
 
 </div>
 
----
+<br/>
 
-## 🧰 Tech Stack
+<a name="stack"></a>
+
+## 🧰 Stack
 
 <div align="center">
 
-**Languages**
-<br/><img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,opencv,tensorflow,flask,html,css,mysql,mongodb,docker,linux,figma,git,github,vscode,jupyter,aws"/>
 
-**AI / Computer Vision**
-<br/><img src="https://skillicons.dev/icons?i=opencv,tensorflow"/>
-<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DeepFace-4B8BBE?style=for-the-badge"/>
-
-**Web & Backend**
-<br/><img src="https://skillicons.dev/icons?i=html,css,flask"/>
-
-**Data & Databases**
-<br/><img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-**Tools & Platforms**
-<br/><img src="https://skillicons.dev/icons?i=docker,linux,figma,git,github,vscode,jupyter,aws"/>
+<sub>YOLO · DeepFace · Power BI · Tableau</sub>
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+<a name="projects"></a>
+
+## 🚀 Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 👁️ AI-Powered Assistive Vision System
-🟢 Active
-<br/>Real-time assistant for visually impaired users — object detection, OCR, face/emotion recognition, currency detection, and spoken feedback.
-<br/><br/>`Python` `OpenCV` `YOLO` `TensorFlow`
-<br/>[**View Repo →**](https://github.com/Aditydhiman/Blind-AI)
+**👁️ [AI-Powered Assistive Vision System](https://github.com/Aditydhiman/Blind-AI)**
+`🟢 Active`
+Real-time assistant for visually impaired users — detection, OCR, face/emotion recognition, currency detection, spoken feedback.
+`Python` `OpenCV` `YOLO` `TensorFlow`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📋 Automated Attendance System
-✅ Built for Smart India Hackathon 2025
-<br/>Facial-recognition attendance system with a Flask dashboard, secure login, and automated reporting.
-<br/><br/>`Python` `OpenCV` `DeepFace` `Flask`
-<br/>[**View Repo →**](https://github.com/Aditydhiman/Automated-Attendance-System)
+**📋 [Automated Attendance System](https://github.com/Aditydhiman/Automated-Attendance-System)**
+`✅ SIH 2025`
+Facial-recognition attendance with a Flask dashboard, secure login, automated reporting.
+`Python` `OpenCV` `DeepFace` `Flask`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛒 SmartCart
-🎨 UI/UX Prototype
-<br/>Grocery & medicine price-comparison concept — wireframes, user flows, and a high-fidelity design.
-<br/><br/>`HTML` `CSS` `UI/UX Design`
-<br/>[**View Repo →**](https://github.com/Aditydhiman/Smartcart-)
+**🛒 [SmartCart](https://github.com/Aditydhiman/Smartcart-)**
+`🎨 Prototype`
+Grocery & medicine price-comparison concept — wireframes, flows, high-fidelity UI.
+`HTML` `CSS` `UI/UX`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 System Call Interface
-✅ Completed
-<br/>A user-friendly web interface for exploring system calls, built with security and usability in mind.
-<br/><br/>`HTML` `CSS` `Operating Systems`
-<br/>[**View Repo →**](https://github.com/Aditydhiman/System-Call)
+**💻 [System Call Interface](https://github.com/Aditydhiman/System-Call)**
+`✅ Completed`
+Web interface for exploring system calls, built with security and usability in mind.
+`HTML` `CSS` `OS`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🍽️ Restaurant Website
-✅ Completed
-<br/>Front-end website with menu, about/contact pages, and an order-form flow. Early front-end project.
-<br/><br/>`HTML` `CSS` `Front-end`
-<br/>[**View Repo →**](https://github.com/Aditydhiman/Restaurant-site)
+**🍽️ [Restaurant Website](https://github.com/Aditydhiman/Restaurant-site)**
+`✅ Completed`
+Menu, about/contact pages, order-form flow — an early front-end project.
+`HTML` `CSS`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⭐ More on the way
-🔜 In the pipeline
-<br/>More AI and full-stack builds are coming as I grow the assistive-tech and CV toolkit.
-<br/><br/>[**See all repos →**](https://github.com/Aditydhiman?tab=repositories)
+**⭐ [More repos →](https://github.com/Aditydhiman?tab=repositories)**
+`🔜 In progress`
+More AI and full-stack builds are coming as the assistive-tech toolkit grows.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<a name="stats"></a>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aditydhiman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditydhiman&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
-
-<img src="https://streak-stats.demolab.com?user=Aditydhiman&theme=tokyonight&hide_border=true" width="60%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditydhiman&theme=tokyo-night&hide_border=true" width="90%" />
-
-</div>
-
----
-
-## 📈 Full Metrics Dashboard
+## 📊 Stats
 
 <div align="center">
 
-<img src="./metrics.svg" width="100%" alt="detailed GitHub metrics: activity calendar, languages, community stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditydhiman&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8B5CF6&text_color=E6EDF3" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditydhiman&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3" width="35%" />
 
-<sub>Auto-generated and refreshed every few hours by the <code>lowlighter/metrics</code> GitHub Action in this repo — see the setup steps.</sub>
+<img src="https://streak-stats.demolab.com?user=Aditydhiman&hide_border=true&background=0D1117&ring=00F5FF&fire=8B5CF6&currStreakLabel=00F5FF" width="60%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditydhiman&hide_border=true&bg_color=0D1117&color=00F5FF&line=8B5CF6&point=E6EDF3" width="90%" />
 
 </div>
 
----
+<br/>
 
-## 🕒 Recent Activity
+<a name="metrics"></a>
+
+## 📈 Metrics
+
+<div align="center">
+
+<img src="./metrics.svg" width="100%" alt="auto-generated activity, community and language metrics"/>
+
+<sub>Self-refreshing every few hours via GitHub Actions.</sub>
+
+</div>
+
+<br/>
+
+<a name="activity"></a>
+
+## 🕒 Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<div align="center"><sub>This list updates itself automatically via GitHub Actions — no manual editing needed.</sub></div>
+<div align="center"><sub>Latest commits, PRs and issues — updates itself, no manual edits.</sub></div>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+<a name="trophies"></a>
+
+## 🏆 Trophies
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Aditydhiman&theme=algolia&no-frame=true&row=1&column=6" width="90%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditydhiman/Aditydhiman/output/github-contribution-grid-snake-dark.svg">
@@ -216,22 +178,19 @@ $ echo $MISSION
 
 </div>
 
----
-
-<details>
-<summary>🎓 <b>Education</b> (click to expand)</summary>
 <br/>
 
-**Bachelor of Technology, Computer Science and Engineering**
-Lovely Professional University, Phagwara — Aug 2024 to Present — CGPA: 7.5
+<details>
+<summary><b>🎓 Education</b></summary>
+<br/>
 
-**Intermediate (PCM)**
-Gurukul Model Sr Sec School, Kangra — Mar 2022 to May 2024 — 84%
+**B.Tech, Computer Science and Engineering** — Lovely Professional University, Phagwara — Aug 2024–Present — CGPA 7.5
+**Intermediate (PCM)** — Gurukul Model Sr Sec School, Kangra — Mar 2022–May 2024 — 84%
 
 </details>
 
 <details>
-<summary>📜 <b>Certifications</b> (click to expand)</summary>
+<summary><b>📜 Certifications</b></summary>
 <br/>
 
 | Certificate | Issuer | Date |
@@ -244,26 +203,25 @@ Gurukul Model Sr Sec School, Kangra — Mar 2022 to May 2024 — 84%
 </details>
 
 <details>
-<summary>🌱 <b>Beyond Code</b> (click to expand)</summary>
+<summary><b>🌱 Beyond Code</b></summary>
 <br/>
 
-- 🗣️ **Vice President**, Orators Arena — leadership & public speaking society, LPU (Aug 2025 – Present)
-- 🔐 **Cyber Security Awareness Volunteer**, WNS Cares Foundation (Jun 2025 – Jul 2025)
+- 🗣️ Vice President, Orators Arena — LPU (Aug 2025–Present)
+- 🔐 Cyber Security Awareness Volunteer, WNS Cares Foundation (Jun–Jul 2025)
 
 </details>
 
----
+<br/>
+
+<a name="contact"></a>
 
 <div align="center">
 
-## 🤝 Let's Build Something
+## 📬 Contact
 
-<a href="https://linkedin.com/in/aditya-dhiman1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:adityadhiman779@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Aditydhiman/Aditydhiman/blob/main/YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:adityadhiman779@gmail.com"><img src="https://img.shields.io/badge/Say_Hi-00F5FF?style=for-the-badge&logoColor=0D1117"/></a>
+<a href="https://linkedin.com/in/aditya-dhiman1"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge"/></a>
 
-### ⭐ If you like my work, a star on my repos means a lot.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
+<sub>⭐ If any of this is useful, a star on my repos goes a long way.</sub>
 
 </div>
