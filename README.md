@@ -42,29 +42,21 @@ I also explore **Artificial Intelligence and Computer Vision** through hands-on 
 
 ### 🎯 My Current Direction
 
-```text
-                ☁️ CLOUD COMPUTING
-                       │
-            ┌──────────┴──────────┐
-            │                     │
-          AWS                  Docker
-            │                     │
-            └──────────┬──────────┘
-                       │
-                💻 DEVELOPMENT
-                       │
-             ┌─────────┴─────────┐
-             │                   │
-          UI/UX                 AI
-             │                   │
-          Figma            Computer Vision
-             │                   │
-             └─────────┬─────────┘
-                       │
-                 🚀 REAL PROJECTS
-```
+```mermaid
+flowchart TD
 
----
+    A["☁️ Cloud Computing"] --> B["💻 Software Development"]
+    
+    A --> C["AWS • Docker • Linux"]
+    B --> D["Web Development • Git & GitHub"]
+
+    C --> E["🚀 Real-World Projects"]
+    D --> E
+
+    F["🎨 UI/UX Design"] --> E
+    G["🤖 AI & Computer Vision"] --> E
+
+    E --> H["💡 Building Practical & User-Focused Solutions"]
 
 # ⚡ Quick Snapshot
 
