@@ -1,20 +1,26 @@
-# 👋 Hey, I'm Aditya Dhiman
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Computer+Science+%26+Engineering+Student;AI+%26+Computer+Vision+Enthusiast;Cloud+Computing+%7C+Software+Development;Building+Projects+That+Solve+Real+Problems" />
+# 👋 Hey, I'm Aditya Dhiman
+
+### `Computer Science & Engineering` • `AI` • `Computer Vision` • `Cloud Computing`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=AI+%26+Computer+Vision+Developer;Building+Real-World+Software+Projects;Exploring+Cloud+%26+DevOps;Designing+Useful+Digital+Experiences;Turning+Ideas+Into+Working+Products" />
 
 <br/>
 
 <a href="https://github.com/Aditydhiman">
-  <img src="https://img.shields.io/github/followers/Aditydhiman?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/Aditydhiman">
-  <img src="https://img.shields.io/github/stars/Aditydhiman?style=for-the-badge&logo=github&label=Stars" />
+<a href="https://linkedin.com/in/aditya-dhiman1">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://komarev.com/ghpvc/?username=Aditydhiman">
-  <img src="https://komarev.com/ghpvc/?username=Aditydhiman&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+<a href="mailto:adityadhiman779@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Aditydhiman&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -22,248 +28,422 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **B.Tech Computer Science & Engineering** student at **Lovely Professional University**
+<table>
+<tr>
+<td width="60%">
 
-💡 Interested in **Software Development, AI, Computer Vision & Cloud Computing**
+🎓 I'm a **B.Tech Computer Science & Engineering student** at **Lovely Professional University**.
 
-🤖 Building practical AI applications involving **object detection, OCR, face recognition and assistive technology**
+🤖 My main interest is in building practical applications using **Artificial Intelligence and Computer Vision**.
 
-☁️ Exploring **AWS, Docker, Linux, Cloud Architecture and MLOps**
+☁️ I'm also developing my skills in **Cloud Computing, AWS, Docker, Linux and DevOps**.
 
-🎨 Also interested in **UI/UX Design and building user-friendly digital experiences**
+💻 I enjoy turning ideas into working software — from AI systems and web applications to UI/UX concepts.
 
-🏆 **Smart India Hackathon 2025** participant
+🎨 I have a strong interest in **UI/UX design**, usability and creating interfaces that are simple for users to understand.
 
-🚀 My goal is to build technology that is useful, scalable and solves real-world problems.
+🏆 I participated in **Smart India Hackathon 2025**, where I worked on an automated attendance system.
+
+🚀 I'm continuously learning, building projects and improving my development skills.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,aws,docker,linux,git,github,figma" />
+
+<br/><br/>
+
+**📍 India**
+
+**🎓 B.Tech CSE**
+
+**🤖 AI / Computer Vision**
+
+**☁️ Cloud Computing**
+
+**💻 Software Development**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Let's Connect
+# 🎯 What I Do
 
 <div align="center">
 
-<a href="https://github.com/Aditydhiman">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+| 🤖 Artificial Intelligence | 👁️ Computer Vision | ☁️ Cloud Computing |
+|:---:|:---:|:---:|
+| Machine Learning | Object Detection | AWS |
+| Applied AI | OCR | Docker |
+| AI Applications | Face Recognition | Linux |
+| AI-based Solutions | Image Processing | Cloud Architecture |
 
-<a href="https://linkedin.com/in/aditya-dhiman1">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:adityadhiman779@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+| 💻 Software Development | 🎨 UI / UX | 📊 Data |
+|:---:|:---:|:---:|
+| Web Development | Figma | MySQL |
+| JavaScript | Wireframing | MongoDB |
+| Flask | Prototyping | Power BI |
+| Frontend Development | User Flows | Tableau |
 
 </div>
 
 ---
 
-## ⚡ Quick Overview
+# 🛠️ Technology Stack
 
-| 💻 Area | 🚀 Details |
-|---|---|
-| 🎓 Education | B.Tech CSE — Lovely Professional University |
-| 🤖 AI Focus | Computer Vision • Assistive AI • Applied AI |
-| ☁️ Cloud | AWS • Docker • Linux |
-| 🌐 Development | HTML • CSS • JavaScript • Flask |
-| 🗄️ Databases | MySQL • MongoDB |
-| 🎨 Design | UI/UX • Figma |
-| 🏆 Hackathon | Smart India Hackathon 2025 |
-| 🎯 Career Goal | Software / AI / Cloud Engineering |
+<div align="center">
 
----
+## 👨‍💻 Programming Languages
 
-## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,c" />
 
-### 👨‍💻 Programming
+<br/><br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
-</p>
+## 🤖 AI & Computer Vision
 
-### 🤖 AI & Computer Vision
-
-<p>
 <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
+
 <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge" />
 <img src="https://img.shields.io/badge/DeepFace-4B8BBE?style=for-the-badge" />
-</p>
 
-### 🌐 Web Development
+<br/><br/>
 
-<p>
+## 🌐 Web Development
+
 <img src="https://skillicons.dev/icons?i=html,css,js,flask" />
-</p>
 
-### ☁️ Cloud & DevOps
+<br/><br/>
 
-<p>
+## ☁️ Cloud & DevOps
+
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
-</p>
 
-### 🗄️ Database & Data
+<br/><br/>
 
-<p>
+## 🗄️ Database & Data Tools
+
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
 
-### 🎨 Design & Tools
+<br/><br/>
 
-<p>
+## 🎨 Design & Development Tools
+
 <img src="https://skillicons.dev/icons?i=figma,vscode,jupyter" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 👁️ AI-Powered Assistive Vision System
-
-🔗 **[View Project](https://github.com/Aditydhiman/Blind-AI)**
-
-An AI-powered assistive system designed to help visually impaired users understand their surroundings.
-
-**Features include:**
-- Object detection
-- OCR / text reading
-- Face & emotion recognition
-- Currency detection
-- Voice feedback
-- Real-time computer vision
-
-**Tech:** `Python` `OpenCV` `YOLO` `TensorFlow`
-
----
-
-### 📋 Automated Attendance System
-
-🔗 **[View Project](https://github.com/Aditydhiman/Automated-Attendance-System)**
-
-AI-based facial-recognition attendance system developed as part of **Smart India Hackathon 2025**.
-
-**Features include:**
-- Facial recognition
-- Secure login
-- Class & section management
-- Automated attendance
-- Daily attendance reports
-
-**Tech:** `Python` `OpenCV` `DeepFace` `Flask` `HTML` `CSS` `CSV`
-
----
-
-### 🛒 SmartCart
-
-🔗 **[View Project](https://github.com/Aditydhiman/Smartcart-)**
-
-A grocery and medicine price-comparison concept focused on helping users discover better prices and make smarter purchasing decisions.
-
-**Focus:** `UI/UX` `HTML` `CSS` `Prototyping`
-
----
-
-### 💻 System Call Interface
-
-🔗 **[View Project](https://github.com/Aditydhiman/System-Call)**
-
-A user-friendly web interface designed to demonstrate system-call concepts with a focus on security and usability.
-
-**Tech:** `HTML` `CSS` `JavaScript` `Operating Systems` `Security`
-
----
-
-### 🍽️ Restaurant Website
-
-🔗 **[View Project](https://github.com/Aditydhiman/Restaurant-site)**
-
-A responsive restaurant website containing menu sections, images, about/contact information and an order form.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aditydhiman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditydhiman&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Aditydhiman&theme=tokyonight&hide_border=true" width="65%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditydhiman&theme=tokyo-night&hide_border=true" width="90%" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 🚀 Featured Projects
+
+## 👁️ AI-Powered Assistive Vision System
+
+<a href="https://github.com/Aditydhiman/Blind-AI">
+
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
+
+</a>
+
+> An AI-powered assistive system designed to help visually impaired users understand their surroundings through computer vision and voice-based feedback.
+
+### ✨ Key Features
+
+- 👁️ Real-time object detection
+- 📝 OCR and text recognition
+- 🙂 Face and emotion recognition
+- 💵 Currency detection
+- 🚦 Traffic-related visual detection
+- 🔊 Voice feedback
+- 📷 Real-time image processing
+
+### 🔧 Technologies
+
+`Python` `OpenCV` `YOLO` `TensorFlow` `Computer Vision`
+
+---
+
+## 📋 Automated Attendance System
+
+<a href="https://github.com/Aditydhiman/Automated-Attendance-System">
+
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
+
+</a>
+
+### 🏆 Smart India Hackathon 2025
+
+> A facial-recognition based attendance system designed to automate attendance management and reduce manual effort.
+
+### ✨ Key Features
+
+- 👤 Facial recognition
+- 🔐 Secure login
+- 🏫 Class and section management
+- 📅 Automated attendance records
+- 📊 Attendance dashboard
+- 📄 Daily attendance reports
+- 💾 CSV-based record management
+
+### 🔧 Technologies
+
+`Python` `OpenCV` `DeepFace` `Flask` `HTML` `CSS` `CSV`
+
+---
+
+## 🛒 SmartCart
+
+<a href="https://github.com/Aditydhiman/Smartcart-">
+
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
+
+</a>
+
+> A grocery and medicine price-comparison concept designed to help users compare prices and make smarter purchasing decisions.
+
+### 🎨 Design Focus
+
+- 🛍️ Product comparison
+- 💰 Price awareness
+- 📱 Responsive interface
+- 🧭 User flows
+- 🖼️ Wireframes
+- 🎨 High-fidelity UI
+- 👤 User-centered design
+
+### 🔧 Technologies
+
+`HTML` `CSS` `UI/UX` `Figma` `Prototyping`
+
+---
+
+## 💻 User-Friendly System Call Interface
+
+<a href="https://github.com/Aditydhiman/System-Call">
+
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
+
+</a>
+
+> A web-based interface created to make system-call concepts easier to understand through an interactive and security-focused interface.
+
+### ✨ Highlights
+
+- 🖥️ Interactive interface
+- 🔐 Security-focused design
+- 📋 System-call input/output
+- 📊 Activity and log concepts
+- 🌙 Dark-themed UI
+- 📚 Operating-system concepts
+
+### 🔧 Technologies
+
+`HTML` `CSS` `JavaScript` `Operating Systems` `Security`
+
+---
+
+## 🍽️ Restaurant Website
+
+<a href="https://github.com/Aditydhiman/Restaurant-site">
+
+<img src="https://img.shields.io/badge/🔗%20View%20Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
+
+</a>
+
+> A front-end restaurant website created to practice responsive layouts, navigation and user-friendly web design.
+
+### ✨ Includes
+
+- 🍕 Menu section
+- 📸 Food images
+- 📖 About section
+- 📞 Contact section
+- 📝 Order form
+- 📱 Responsive layout
+
+### 🔧 Technologies
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aditydhiman/Aditydhiman/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aditydhiman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditydhiman&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Aditydhiman&theme=tokyonight&hide_border=true" width="65%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditydhiman&theme=tokyo-night&hide_border=true" width="90%"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+# 🐍 Contribution Activity
 
-| 🚀 Projects | 🤖 AI / Vision | 🏆 Experience | 🎨 Design |
-|---|---|---|---|
-| Assistive Vision System | Object Detection | Smart India Hackathon 2025 | UI/UX Design |
-| Automated Attendance | OCR | SIH Project | SmartCart |
-| SmartCart | Face Recognition | AI Projects | Figma |
-| System Call Interface | Currency Detection | Cloud Projects | Prototyping |
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Aditydhiman/Aditydhiman/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
 
 ---
 
-## 🎓 Education
+# 🏆 Achievements & Experience
 
-### Bachelor of Technology — Computer Science & Engineering
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI Projects**
+
+Multiple AI & Computer Vision projects
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏆
+
+**SIH 2025**
+
+Automated Attendance System
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**Cloud**
+
+AWS • Docker • Linux
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎨
+
+**UI/UX**
+
+Figma • Wireframes • Prototypes
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🎓 Education
+
+### 🎓 Bachelor of Technology — Computer Science & Engineering
 
 **Lovely Professional University, Phagwara**
 
 `Aug 2024 – Present`
 
-**CGPA:** 7.5
+**CGPA:** `7.5`
 
-### Intermediate — PCM
+---
+
+### 📚 Intermediate — PCM
 
 **Gurukul Model Sr. Sec. School, Kangra**
 
 `2022 – 2024`
 
-**Percentage:** 84%
+**Percentage:** `84%`
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
-- 🗄️ **Database Management System** — Infosys Springboard
-- 🤖 **GenAI Fundamentals** — Udemy
-- 🎨 **Introduction to UX/UI Design** — IBM
-- ☁️ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** — Oracle
+<div align="center">
+
+| Certification | Platform / Organization |
+|---|---|
+| ☁️ Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | Oracle |
+| 🎨 Introduction to UX/UI Design | IBM |
+| 🗄️ Database Management System | Infosys Springboard |
+| 🤖 GenAI Fundamentals | Udemy |
+
+</div>
 
 ---
 
-## 📈 Currently Learning
+# 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,js,python" />
+
+<br/><br/>
+
+`☁️ Cloud Computing`
+
+`🐳 Docker & DevOps`
+
+`🤖 AI / Machine Learning`
+
+`👁️ Computer Vision`
+
+`🌐 Web Development`
+
+`🎨 UI/UX Design`
+
+</div>
+
+---
+
+# 💡 Development Philosophy
+
+<div align="center">
+
+> **Learn → Build → Test → Improve → Repeat**
+
+<br/>
+
+I believe the best way to learn technology is by building real projects,
+experimenting with new ideas and continuously improving.
+
+</div>
+
+---
+
+# 📈 My Current Focus
 
 ```text
-☁️ Cloud Computing
-🐳 Docker & DevOps
-🤖 AI / Machine Learning
-👁️ Computer Vision
-🌐 Full-Stack Development
-🎨 UI/UX Design
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   🤖 Artificial Intelligence                            │
+│   👁️ Computer Vision                                   │
+│   ☁️ Cloud Computing                                   │
+│   💻 Software Development                              │
+│   🎨 UI/UX & Product Design                            │
+│   🐳 DevOps & Docker                                   │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
