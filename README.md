@@ -1,141 +1,172 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:0F2740,100:0D1117&height=200&section=header&text=Aditya%20Dhiman&fontSize=48&fontColor=00F5FF&animation=fadeIn&fontAlignY=42&desc=AI%20Developer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Assistive%20Tech&descAlignY=62&descSize=16&descColor=8B5CF6" width="100%"/>
-
-</div>
-
-```
-$ neofetch --user aditya
-
-   ▄▄▄▄▄▄▄▄▄▄▄               aditya@LPU
-  █             █            ------------------
-  █   ◉     ◉   █            OS: Human.exe  (B.Tech CSE)
-  █      ▽      █            Host: Lovely Professional University
-  █   ▔▔▔▔▔▔▔   █            Kernel: Computer Vision Engine
-   ▀▀▀▀▀▀▀▀▀▀▀               Uptime: 2+ years of daily building
-                              Shell: python3 --focus=vision
-                              Languages: C, C++, Java, Python, JavaScript
-                              Toolchain: OpenCV, YOLO, TensorFlow, DeepFace, Flask
-                              Currently: Assistive Vision System, SmartCart
-                              Hackathon: Smart India Hackathon 2025
-                              Status: open to internships & collabs
-                              Location: Phagwara, Punjab, India
-```
+# 👋 Hi, I'm Aditya Dhiman
 
 <div align="center">
 
-**adityadhiman779@gmail.com** · [LinkedIn](https://linkedin.com/in/aditya-dhiman1) · [GitHub](https://github.com/Aditydhiman) · [Portfolio](https://github.com/Aditydhiman/Aditydhiman/blob/main/YOUR_PORTFOLIO_LINK)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+%26+Computer+Vision+Developer;Building+real-time+vision+systems;B.Tech+CSE+%40+LPU;Turning+code+into+things+that+help+people)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/github/followers/Aditydhiman?style=flat-square&color=00F5FF&labelColor=0D1117" />
-<img src="https://komarev.com/ghpvc/?username=Aditydhiman&style=flat-square&color=8B5CF6&labelColor=0D1117&label=VIEWS" />
+[![GitHub followers](https://img.shields.io/github/followers/Aditydhiman?style=for-the-badge)](https://github.com/Aditydhiman)
+[![GitHub stars](https://img.shields.io/github/stars/Aditydhiman?style=for-the-badge)](https://github.com/Aditydhiman)
+[![Profile views](https://komarev.com/ghpvc/?username=Aditydhiman&style=for-the-badge&color=blueviolet)](https://github.com/Aditydhiman)
 
 </div>
 
 ---
 
-### about
+## 💎 About Me
 
-I build real-time computer-vision systems, mostly for assistive use — object detection, OCR, face and emotion recognition, currency detection, spoken feedback. At Smart India Hackathon 2025 I shipped a live facial-recognition attendance system under a clock. I also trained in UI/UX design (Grade A), so I think about how AI *feels* to use, not only how well it scores.
-
-Currently exploring: `MLOps` `Docker` `Advanced Deep Learning`
-
----
-
-### journey
-
-```
-* 9f1c3a2 (HEAD -> main) exploring MLOps, Docker, deeper deep-learning
-* 7d1e4b0 completed UI/UX design & prototyping training — Grade A
-* e29a1c3 built facial-recognition attendance system — Smart India Hackathon 2025
-* 4b8f001 started the AI-powered Assistive Vision System
-* 1a002ff learned Python, OpenCV, and computer-vision fundamentals
-* 0000001 (root-commit) enrolled in B.Tech CSE @ Lovely Professional University
-```
+- 🎓 B.Tech Computer Science Engineering student at Lovely Professional University, Phagwara
+- 👁️ I build real-time AI vision systems — object detection, OCR, face & emotion recognition, currency detection, and voice feedback
+- 🤖 Focused on computer vision, assistive technology, and applied AI
+- 🏆 Smart India Hackathon (SIH) 2025 participant — built a facial-recognition attendance system
+- 🌱 Currently exploring: MLOps, Docker, and deeper deep-learning
+- 📍 Phagwara, Punjab, India
+- ⚡ Fun fact: I'm building software that helps visually impaired people "see" the world
 
 ---
 
-### stack
+## 🌐 Connect With Me
 
-```
-Python       ████████████████████  daily driver
-OpenCV       ██████████████████░░  core to every CV project
-C / C++      ████████████████░░░░  fundamentals & DSA
-JavaScript   ████████████░░░░░░░░  front-end work
-TensorFlow   ███████████░░░░░░░░░  model training
-Docker       ███████░░░░░░░░░░░░░  currently learning
-```
-<sub>self-rated — adjust to how you'd actually rank yourself</sub>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://github.com/Aditydhiman/Aditydhiman/blob/main/YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-dhiman1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Aditydhiman)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityadhiman779@gmail.com)
+
+---
+
+## ⚡ Quick Highlights
+
+| | |
+|---|---|
+| 💻 **Languages** | C, C++, Java, Python, JavaScript |
+| 🤖 **Focus Areas** | Computer Vision • Assistive AI • Real-time Systems |
+| 🚀 **Actively Building** | Assistive Vision System • SmartCart |
+| 🏆 **Highlight** | Smart India Hackathon 2025 |
+| 🎯 **Goal** | Computer Vision / AI Engineer |
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=c,cpp,java,python,js)](https://skillicons.dev)
+
+**AI / Computer Vision**
+
+[![AI](https://skillicons.dev/icons?i=opencv,tensorflow)](https://skillicons.dev)
+[![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)](https://github.com/Aditydhiman)
+[![DeepFace](https://img.shields.io/badge/DeepFace-4B8BBE?style=for-the-badge)](https://github.com/Aditydhiman)
+
+**Web & Backend**
+
+[![Web](https://skillicons.dev/icons?i=html,css,flask)](https://skillicons.dev)
+
+**Databases & Data**
+
+[![DB](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Aditydhiman)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/Aditydhiman)
+
+**Tools & Platforms**
+
+[![Tools](https://skillicons.dev/icons?i=docker,linux,figma,git,github,vscode,jupyter,aws)](https://skillicons.dev)
+
+---
+
+## 🚀 Featured Projects
+
+### 👁️ [AI-Powered Assistive Vision System](https://github.com/Aditydhiman/Blind-AI)
+Real-time assistant for visually impaired users. Announces objects, warns of danger, reads text, recognizes faces and emotions, detects currency, and gives spoken feedback.
+
+`Python` `OpenCV` `YOLO` `TensorFlow`
+
+### 📋 [Automated Attendance System](https://github.com/Aditydhiman/Automated-Attendance-System) — Smart India Hackathon 2025
+Facial-recognition based attendance system with a Flask dashboard, secure login, class/section management, and automated daily reports.
+
+`Python` `OpenCV` `DeepFace` `Flask` `HTML` `CSS` `CSV`
+
+### 🛒 [SmartCart](https://github.com/Aditydhiman/Smartcart-)
+Grocery & medicine price-comparison concept from UI/UX training — wireframes, user flows, and a high-fidelity prototype.
+
+`HTML` `CSS` `UI/UX Design` `Prototyping`
+
+### 💻 [System Call Interface](https://github.com/Aditydhiman/System-Call)
+A user-friendly web interface for working with system calls, designed with security and usability in mind.
+
+`HTML` `CSS` `Operating Systems` `Security`
+
+### 🍽️ [Restaurant Website](https://github.com/Aditydhiman/Restaurant-site)
+Website for a restaurant with menu photos, about/contact pages, and an order-form link — an early front-end project.
+
+`HTML` `CSS` `Front-end`
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,opencv,tensorflow,flask,mysql,mongodb,docker,git,github,figma,aws"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditydhiman&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditydhiman&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
+
+<img src="https://streak-stats.demolab.com?user=Aditydhiman&theme=tokyonight&hide_border=true" width="60%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditydhiman&theme=tokyo-night&hide_border=true" width="90%" />
 
 </div>
 
 ---
 
-### projects
-
-```diff
-+ Assistive Vision System        active     Python · OpenCV · YOLO · TensorFlow
-+ Automated Attendance System    SIH 2025   Python · OpenCV · DeepFace · Flask
-+ SmartCart                      prototype  HTML · CSS · UI/UX
-+ System Call Interface          done       HTML · CSS · Operating Systems
-+ Restaurant Website             done       HTML · CSS
-```
-
-**[AI-Powered Assistive Vision System →](https://github.com/Aditydhiman/Blind-AI)**
-Real-time assistant for visually impaired users: object detection, OCR, face/emotion recognition, currency detection, spoken feedback.
-
-**[Automated Attendance System →](https://github.com/Aditydhiman/Automated-Attendance-System)**
-Facial-recognition attendance with a Flask dashboard, secure login, automated reporting. Built for Smart India Hackathon 2025.
-
-**[SmartCart →](https://github.com/Aditydhiman/Smartcart-)**
-Grocery & medicine price-comparison concept — wireframes, flows, high-fidelity UI from my UX training.
-
-**[System Call Interface →](https://github.com/Aditydhiman/System-Call)**
-A web interface for exploring system calls, built with security and usability in mind.
-
-**[Restaurant Website →](https://github.com/Aditydhiman/Restaurant-site)**
-Menu, about/contact pages, an order-form flow — an early front-end project.
-
----
-
-### stats
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditydhiman&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8B5CF6&text_color=E6EDF3" width="48%" />
-<img src="https://streak-stats.demolab.com?user=Aditydhiman&hide_border=true&background=0D1117&ring=00F5FF&fire=8B5CF6&currStreakLabel=00F5FF" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditydhiman&hide_border=true&bg_color=0D1117&color=00F5FF&line=8B5CF6&point=E6EDF3" width="97%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aditydhiman&theme=algolia&no-frame=true&row=1&column=6" width="97%"/>
+[![GitHub Contribution Snake](https://raw.githubusercontent.com/Aditydhiman/Aditydhiman/output/github-contribution-grid-snake-dark.svg)](https://github.com/Aditydhiman)
 
 </div>
 
+> Set up automatically once you add the snake workflow — see the setup steps.
+
 ---
 
-<details>
-<summary>education & certifications</summary>
-<br/>
+## 🏅 Achievements Snapshot
 
-**B.Tech, Computer Science and Engineering** — Lovely Professional University, Phagwara — Aug 2024–Present — CGPA 7.5
-**Intermediate (PCM)** — Gurukul Model Sr Sec School, Kangra — Mar 2022–May 2024 — 84%
+| 🚀 Projects | 👁️ AI / Vision | 🏆 Hackathon | 🎨 Training |
+|---|---|---|---|
+| Assistive Vision System | 10+ vision features | Smart India Hackathon 2025 | UI/UX Design — Grade A |
+| Automated Attendance System | Object detection, OCR, face & emotion recognition | Automated Attendance (built for SIH) | SmartCart prototype |
+| SmartCart / System Call / Restaurant Site | Currency & traffic-light detection | — | — |
 
-| certificate | issuer | date |
-|---|---|---|
-| Database Management System | Infosys Springboard | Jul 2026 |
-| GenAI Fundamentals | Udemy | Jan 2026 |
-| Introduction to UX/UI Design | IBM | Mar 2025 |
-| OCI 2025 Certified AI Foundations Associate | Oracle | Jan 2025 |
+---
 
-🗣️ Vice President, Orators Arena, LPU (Aug 2025–Present) · 🔐 Cyber Security Awareness Volunteer, WNS Cares Foundation (Jun–Jul 2025)
+## 🎓 Education
 
-</details>
+**Bachelor of Technology, Computer Science and Engineering**
+Lovely Professional University, Phagwara — Aug 2024 to Present — CGPA: 7.5
 
-<br/>
+**Intermediate (PCM)**
+Gurukul Model Sr Sec School, Kangra — Mar 2022 to May 2024 — 84%
+
+---
+
+## 📜 Certifications
+
+- 🗄️ Database Management System — *Infosys Springboard*, Jul 2026
+- 🤖 GenAI Fundamentals — *Udemy*, Jan 2026
+- 🎨 Introduction to UX/UI Design — *IBM*, Mar 2025
+- ☁️ Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate — *Oracle*, Jan 2025
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
-<sub>⭐ if any of this is useful, a star on my repos goes a long way</sub>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-black?style=for-the-badge)](https://github.com/Aditydhiman/Aditydhiman/blob/main/YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-dhiman1)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityadhiman779@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Aditydhiman)
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
 </div>
