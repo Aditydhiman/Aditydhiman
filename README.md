@@ -42,7 +42,7 @@ I also explore **Artificial Intelligence and Computer Vision** through hands-on 
 
 ### 🎯 My Current Direction
 
-```mermaid
+
 flowchart TD
 
     A["☁️ Cloud Computing"] --> B["💻 Software Development"]
