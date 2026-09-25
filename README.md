@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Aditya%20Dhiman&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Computer%20Vision%20Developer&descAlignY=58&descSize=20&descColor=E6FFFA" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Aditya%20Dhiman&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Computer%20Vision%20Developer&descAlignY=58&descSize=20&descColor=E6FFFA">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Aditya%20Dhiman&fontSize=55&fontColor=001B2E&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Computer%20Vision%20Developer&descAlignY=58&descSize=20&descColor=001B2E" width="100%">
+</picture>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+real-time+AI+vision+systems;Turning+computer+vision+into+assistive+tech;B.Tech+CSE+%40+Lovely+Professional+University;Smart+India+Hackathon+2025+Builder)](https://git.io/typing-svg)
 
@@ -17,7 +20,7 @@
 <a href="https://github.com/Aditydhiman?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-`about` • `stack` • `projects` • `stats` • `trophies` • `education` • `contact`
+**[About](#-about-me) · [Stack](#-tech-stack) · [Projects](#-featured-projects) · [Stats](#-github-stats) · [Metrics](#-full-metrics-dashboard) · [Activity](#-recent-activity) · [Trophies](#-github-trophies) · [Contact](#-lets-build-something)**
 
 </div>
 
@@ -29,15 +32,15 @@
 $ whoami
 > Aditya Dhiman — AI Developer, Computer Vision
 
-$ status
+$ status --current
 > B.Tech CSE @ Lovely Professional University | Phagwara, India
 > Building assistive AI systems that help people see, hear, and navigate
 
-$ currently_building
+$ ps --building
 > ["Assistive Vision System", "SmartCart"]
 
-$ mission
-> Turn real-time computer vision into tools people can actually rely on
+$ echo $MISSION
+> "Turn real-time computer vision into tools people can actually rely on"
 ```
 
 ---
@@ -47,15 +50,11 @@ $ mission
 - 🎓 B.Tech Computer Science Engineering student, Lovely Professional University
 - 👁️ I design real-time AI vision pipelines — object detection, OCR, face & emotion recognition, currency detection, voice feedback
 - 🏆 **Smart India Hackathon 2025** — built a live facial-recognition attendance system under time pressure
-- 🎨 Also trained in UI/UX design and prototyping (Grade A) — I care about how AI *feels* to use, not just how it works
+- 🎨 Also trained in UI/UX design and prototyping (Grade A) — I care how AI *feels* to use, not just how it works
 - 🌱 Currently deepening: MLOps, Docker, and advanced deep learning
 - 🧩 Soft skills: adaptability, problem-solving, fast learning, teamwork
 - 📍 Phagwara, Punjab, India
 - ⚡ Fun fact: I build software that helps people who can't see, see
-
----
-
-## ⚡ Quick Highlights
 
 <div align="center">
 
@@ -72,28 +71,23 @@ $ mission
 <div align="center">
 
 **Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
+<br/><img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
 
 **AI / Computer Vision**
-<br/>
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow"/>
+<br/><img src="https://skillicons.dev/icons?i=opencv,tensorflow"/>
 <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DeepFace-4B8BBE?style=for-the-badge"/>
 
 **Web & Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,flask"/>
+<br/><img src="https://skillicons.dev/icons?i=html,css,flask"/>
 
 **Data & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<br/><img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 **Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,figma,git,github,vscode,jupyter,aws"/>
+<br/><img src="https://skillicons.dev/icons?i=docker,linux,figma,git,github,vscode,jupyter,aws"/>
 
 </div>
 
@@ -107,24 +101,18 @@ $ mission
 
 ### 👁️ AI-Powered Assistive Vision System
 🟢 Active
-<br/>
-Real-time assistant for visually impaired users — object detection, OCR, face/emotion recognition, currency detection, and spoken feedback.
-<br/><br/>
-`Python` `OpenCV` `YOLO` `TensorFlow`
-<br/>
-[**View Repo →**](https://github.com/Aditydhiman/Blind-AI)
+<br/>Real-time assistant for visually impaired users — object detection, OCR, face/emotion recognition, currency detection, and spoken feedback.
+<br/><br/>`Python` `OpenCV` `YOLO` `TensorFlow`
+<br/>[**View Repo →**](https://github.com/Aditydhiman/Blind-AI)
 
 </td>
 <td width="50%">
 
 ### 📋 Automated Attendance System
 ✅ Built for Smart India Hackathon 2025
-<br/>
-Facial-recognition attendance system with a Flask dashboard, secure login, and automated reporting.
-<br/><br/>
-`Python` `OpenCV` `DeepFace` `Flask`
-<br/>
-[**View Repo →**](https://github.com/Aditydhiman/Automated-Attendance-System)
+<br/>Facial-recognition attendance system with a Flask dashboard, secure login, and automated reporting.
+<br/><br/>`Python` `OpenCV` `DeepFace` `Flask`
+<br/>[**View Repo →**](https://github.com/Aditydhiman/Automated-Attendance-System)
 
 </td>
 </tr>
@@ -133,24 +121,18 @@ Facial-recognition attendance system with a Flask dashboard, secure login, and a
 
 ### 🛒 SmartCart
 🎨 UI/UX Prototype
-<br/>
-Grocery & medicine price-comparison concept — wireframes, user flows, and a high-fidelity design.
-<br/><br/>
-`HTML` `CSS` `UI/UX Design`
-<br/>
-[**View Repo →**](https://github.com/Aditydhiman/Smartcart-)
+<br/>Grocery & medicine price-comparison concept — wireframes, user flows, and a high-fidelity design.
+<br/><br/>`HTML` `CSS` `UI/UX Design`
+<br/>[**View Repo →**](https://github.com/Aditydhiman/Smartcart-)
 
 </td>
 <td width="50%">
 
 ### 💻 System Call Interface
 ✅ Completed
-<br/>
-A user-friendly web interface for exploring system calls, built with security and usability in mind.
-<br/><br/>
-`HTML` `CSS` `Operating Systems`
-<br/>
-[**View Repo →**](https://github.com/Aditydhiman/System-Call)
+<br/>A user-friendly web interface for exploring system calls, built with security and usability in mind.
+<br/><br/>`HTML` `CSS` `Operating Systems`
+<br/>[**View Repo →**](https://github.com/Aditydhiman/System-Call)
 
 </td>
 </tr>
@@ -159,22 +141,17 @@ A user-friendly web interface for exploring system calls, built with security an
 
 ### 🍽️ Restaurant Website
 ✅ Completed
-<br/>
-Front-end website with menu, about/contact pages, and an order-form flow. Early front-end project.
-<br/><br/>
-`HTML` `CSS` `Front-end`
-<br/>
-[**View Repo →**](https://github.com/Aditydhiman/Restaurant-site)
+<br/>Front-end website with menu, about/contact pages, and an order-form flow. Early front-end project.
+<br/><br/>`HTML` `CSS` `Front-end`
+<br/>[**View Repo →**](https://github.com/Aditydhiman/Restaurant-site)
 
 </td>
 <td width="50%">
 
 ### ⭐ More on the way
 🔜 In the pipeline
-<br/>
-More AI and full-stack builds are coming as I grow the assistive-tech and CV toolkit.
-<br/><br/>
-[**See all repos →**](https://github.com/Aditydhiman?tab=repositories)
+<br/>More AI and full-stack builds are coming as I grow the assistive-tech and CV toolkit.
+<br/><br/>[**See all repos →**](https://github.com/Aditydhiman?tab=repositories)
 
 </td>
 </tr>
@@ -197,6 +174,27 @@ More AI and full-stack builds are coming as I grow the assistive-tech and CV too
 
 ---
 
+## 📈 Full Metrics Dashboard
+
+<div align="center">
+
+<img src="./metrics.svg" width="100%" alt="detailed GitHub metrics: activity calendar, languages, community stats"/>
+
+<sub>Auto-generated and refreshed every few hours by the <code>lowlighter/metrics</code> GitHub Action in this repo — see the setup steps.</sub>
+
+</div>
+
+---
+
+## 🕒 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<div align="center"><sub>This list updates itself automatically via GitHub Actions — no manual editing needed.</sub></div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -211,13 +209,18 @@ More AI and full-stack builds are coming as I grow the assistive-tech and CV too
 
 <div align="center">
 
-[![GitHub Contribution Snake](https://raw.githubusercontent.com/Aditydhiman/Aditydhiman/output/github-contribution-grid-snake-dark.svg)](https://github.com/Aditydhiman)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditydhiman/Aditydhiman/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Aditydhiman/Aditydhiman/output/github-contribution-grid-snake.svg" width="90%">
+</picture>
 
 </div>
 
 ---
 
-## 🎓 Education
+<details>
+<summary>🎓 <b>Education</b> (click to expand)</summary>
+<br/>
 
 **Bachelor of Technology, Computer Science and Engineering**
 Lovely Professional University, Phagwara — Aug 2024 to Present — CGPA: 7.5
@@ -225,11 +228,11 @@ Lovely Professional University, Phagwara — Aug 2024 to Present — CGPA: 7.5
 **Intermediate (PCM)**
 Gurukul Model Sr Sec School, Kangra — Mar 2022 to May 2024 — 84%
 
----
+</details>
 
-## 📜 Certifications
-
-<div align="center">
+<details>
+<summary>📜 <b>Certifications</b> (click to expand)</summary>
+<br/>
 
 | Certificate | Issuer | Date |
 |---|---|---|
@@ -238,14 +241,16 @@ Gurukul Model Sr Sec School, Kangra — Mar 2022 to May 2024 — 84%
 | Introduction to UX/UI Design | IBM | Mar 2025 |
 | OCI 2025 Certified AI Foundations Associate | Oracle | Jan 2025 |
 
-</div>
+</details>
 
----
-
-## 🌱 Beyond Code
+<details>
+<summary>🌱 <b>Beyond Code</b> (click to expand)</summary>
+<br/>
 
 - 🗣️ **Vice President**, Orators Arena — leadership & public speaking society, LPU (Aug 2025 – Present)
 - 🔐 **Cyber Security Awareness Volunteer**, WNS Cares Foundation (Jun 2025 – Jul 2025)
+
+</details>
 
 ---
 
